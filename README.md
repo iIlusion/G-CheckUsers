@@ -1,3 +1,7 @@
+# WARNING
+
+**You need to run this in a new account with te option to change name!!**
+
 # G-CheckUsers
 ## _Check available OG Users_
 
