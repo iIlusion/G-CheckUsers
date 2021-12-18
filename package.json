@@ -1,0 +1,15 @@
+{
+  "name": "usercheck",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node . -p 9092"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gnode-api": "^0.1.0"
+  }
+}
