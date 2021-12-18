@@ -22,8 +22,7 @@ npm i
 
 ## Add users do check list
 
-1° Go to `add.txt`
-2° add users (1 per line)
+1° Go to `add.txt`                                                           2° add users (1 per line)
 
 **Example**
 ```sh
