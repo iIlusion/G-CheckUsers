@@ -9,7 +9,7 @@ G-CheckUsers is a [G-Earth](https://github.com/sirjonasxx/G-Earth) extension to 
 
 ## Features
 
-- 2~ checks per minute
+- 2~ checks per second
 - Storage all free names in free.txt
 
 ## Usage
